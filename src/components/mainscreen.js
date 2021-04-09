@@ -9,7 +9,7 @@ function mainscreen(){
             <p>
                 MCA
                 B.Tech
-                B.E.//
+                B.E.
 
             </p>
         </div>
